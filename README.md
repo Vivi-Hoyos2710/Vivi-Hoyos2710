@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Viviana Hoyos Sierra</h1>
 <h3 align="center">A student of computer science from Colombia</h3>
 
-- 📫 How to reach me **vivianahoyossierra@gmail.com,**
+- 📫 How to reach me **vivianahoyossierra@gmail.com,vhoyoss@eafit.edu.co**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+My hobbies: 
 <a href="https://instagram.com/vivi_hoyos27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivi_hoyos27" height="30" width="40" /></a>
 </p>
 
