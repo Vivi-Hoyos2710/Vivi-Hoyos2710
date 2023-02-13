@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viviana Hoyos Sierra</h1>
-<h3 align="center">A student of system engineering  from Colombia</h3>
+<h3 align="center">A Computer Science student from Colombia</h3>
 
 - 📫 How to reach me **vivianahoyossierra@gmail.com,vhoyoss@eafit.edu.co**
 
